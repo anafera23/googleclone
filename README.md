@@ -1,6 +1,6 @@
 # Práctica de Clonación  de la Interfaz de Google con HTML y CSS
 <a name="indice"></a> 
-## [**ÍNDICE**](#indice)
+## **ÍNDICE**
 
 1. [Intro](#item1)
 2. [Qué Construí](#item2)
