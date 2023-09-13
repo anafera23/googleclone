@@ -12,7 +12,7 @@
 ## 1. Intro
 
 HTML5 trabaja de la mano con CSS 3 para crear páginas web que usamos todos los dias en el navagador. Incluso este sitio web en donde estas viendo este contenido esta construido en HTML y CSS. En este proyecto, con los conocimientos de HTML Y CSS realice la clonación de la interfaz de Google.
-<center> [Indice](#indice) </center>
+ [Indice](#indice) 
 
 <a name="item2"></a>
 ## 2. Qué construí
