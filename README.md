@@ -36,5 +36,5 @@ Aprender a utlizar las etiquetas estándar de HTML5 y CSS3
 
 <a name="item4"></a>
 ## Link a Demo
-Aquí puedes ver mi proyecto terminado [Mi clon de Google](https://googleclone-gi1rhtxyp-anafera23.vercel.app/ "_blanck")
+Aquí puedes ver mi proyecto terminado [Mi clon de Google](https://googleclone-gi1rhtxyp-anafera23.vercel.app/ "_blank")
 <br> [Indice](#indice) 
